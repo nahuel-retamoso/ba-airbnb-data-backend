@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "graphql test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.9.4",
+    "apollo-server": "^3.12.1",
+    "dotenv": "^16.3.1",
+    "graphql": "^16.8.1",
+    "graphql-playground-middleware-express": "^1.7.23",
+    "mongodb": "^6.1.0"
+  }
+}
